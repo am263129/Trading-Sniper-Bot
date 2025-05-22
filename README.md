@@ -1,3 +1,9 @@
+# Raydium Sniper Trading Bot
+
+## Overview
+
+The **Raydium** **Sniper Bot** is a high-speed, precision trading bot engineered to dominate the **Raydium DEX** on the **Solana** blockchain, specializing in sniping newly launched tokens the moment liquidity pools go live. Built for maximum efficiency, this bot scans, analyzes, and executes trades faster than manual traders, ensuring you secure the best possible entry prices on trending Solana tokens. Whether you're a **DeFi sniper**, **scalper**, or **liquidity hunter**, this tool gives you the competitive edge in the ultra-fast world of **Raydium token launches**.
+
 <img src = "https://github.com/husreodev/Solana-raydium-sniper-bot/blob/main/public/hq720.jpg" style = "width:100%" />
 
 **Solana Raydium Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
