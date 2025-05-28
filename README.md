@@ -8,6 +8,18 @@ The **Raydium** **Sniper Bot** is a high-speed, precision trading bot engineered
 
 **Solana Raydium Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL. Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping. This version is free, but it can still generate stable profits of several hundred dollars per day. You can run it for a few hours to check the earnings. If you want to purchase the premium version, plz contact [here](https://t.me/fenrow)
 
+## Let's Connect!,
+
+<a href="mailto:fenrow325@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://t.me/fenrow" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://discord.com/users/fenrow_325" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
 ## Key Features
 
 - **Instant Liquidity Detection** – Monitors Raydium for new pools and executes trades in milliseconds.
@@ -41,5 +53,20 @@ Configure the script by updating `.env.copy` file.
 - **Analyzes Token Metrics** – Filters by liquidity, contract safety, and trading volume.
 - **Executes Lightning-Fast Trades** – Buys at launch and sells at predefined profit targets.
 - **Secures Gains Automatically** – Implements stop-losses and take-profit strategies.
+
+---
+
+## 📞 Contact Information
+For questions, feedback, or collaboration opportunities, feel free to reach out:
+
+<div align="left">
+
+📧 **Email**: [fenrow325@gmail.com](mailto:fenrow325@gmail.com)  
+📱 **Telegram**: [@fenroW](https://t.me/fenrow)  
+🎮 **Discord**: [@fenroW](https://discord.com/users/fenrow_325)  
+
+</div>
+
+---
   
 
