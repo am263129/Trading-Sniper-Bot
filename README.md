@@ -53,14 +53,6 @@ Configure the script by updating `.env.copy` file.
 ## 📞 Contact Information
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-<div align="left">
-
-📧 **Email**: [fenrow325@gmail.com](mailto:fenrow325@gmail.com)  
-📱 **Telegram**: [@fenroW](https://t.me/fenrow)  
-🎮 **Discord**: [@fenroW](https://discord.com/users/fenrow_325)  
-
-</div>
-
 ---
   
 
